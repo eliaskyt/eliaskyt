@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @eliaskyt
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning in School.
+- 📫 You can reach me per Email or Discord.
