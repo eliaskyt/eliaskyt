@@ -1,3 +1,5 @@
+![Elias K. - Statistiken](https://github-readme-stats.vercel.app/api?username=eliaskyt&show_icons=true&theme=dark&locale=de)
+
 - 👋 Hi, I’m @eliaskyt
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning in School.
